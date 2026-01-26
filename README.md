@@ -1,3 +1,5 @@
+<div align="center">
+
 # SuperTux AppImage-Enhanced 🐧
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/SuperTux-AppImage-Enhanced/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/SuperTux-AppImage-Enhanced/releases/latest)
@@ -8,7 +10,11 @@
   <img src="https://raw.githubusercontent.com/SuperTux/supertux/refs/heads/master/supertux2.svg" width="128" />
 </p>
 
-* [Upstream URL](https://github.com/SuperTux/supertux)
+| Latest Stable Release | Upstream URL |
+| :---: | :---: |
+| [Click here](https://github.com/pkgforge-dev/SuperTux-AppImage-Enhanced/releases/latest) | [Click here](https://github.com/SuperTux/supertux) |
+
+</div>
 
 ---
 
